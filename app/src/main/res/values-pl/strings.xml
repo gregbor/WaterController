@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Water Controller</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="section_format">Witaj z sekcji %1$d</string>
+    <string name="witaj_swiecie">Witaj świecie</string>
+    <string name="action_exit">Zakończ</string>
+    <string name="fragment01_name">Status</string>
+    <string name="fragment02_name">Sterowanie ręczne</string>
+    <string name="fragment03_name">Sekwencje automatyczne</string>
+    <string name="fragment04_name">Konsola</string>
+    <string name="fragment05_name">Do użycia</string>
+    <string name="btn_send">Wyślij</string>
+    <string name="action_help">Pomoc</string>
+    <string name="string_command_to_send">Rozkaz do wysłania</string>
+    <string name="action_connect">Połącz BT</string>
+    <string name="action_disconnect">Rozłącz BT</string>
+</resources>
